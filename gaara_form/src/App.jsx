@@ -1,14 +1,14 @@
 import React from 'react'
-import FormOne from './components/formOne/formOne'
+import FormTwo from './components/formTwo/formTwo'
+
 
 function App() {
   return (
     <div>
-      <FormOne/>
+    <FormTwo/>
       
     </div>
   )
 }
 
 export default App
-
